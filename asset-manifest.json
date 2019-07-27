@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitch-lite/static/css/main.ddfd0427.chunk.css",
+    "main.js": "/twitch-lite/static/js/main.a231963e.chunk.js",
+    "main.js.map": "/twitch-lite/static/js/main.a231963e.chunk.js.map",
+    "runtime~main.js": "/twitch-lite/static/js/runtime~main.6e49f2df.js",
+    "runtime~main.js.map": "/twitch-lite/static/js/runtime~main.6e49f2df.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/twitch-lite/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/twitch-lite/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/twitch-lite/index.html",
+    "precache-manifest.912bcbe0bb5300b95e304a9bc6b737c1.js": "/twitch-lite/precache-manifest.912bcbe0bb5300b95e304a9bc6b737c1.js",
+    "service-worker.js": "/twitch-lite/service-worker.js",
+    "static/css/main.ddfd0427.chunk.css.map": "/twitch-lite/static/css/main.ddfd0427.chunk.css.map"
+  }
+}
